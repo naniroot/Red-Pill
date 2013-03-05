@@ -1,4 +1,4 @@
 Red-Pill
 ========
 
-Node-js with Redis key-value store support for Red-Pill exercise
+Red-Pill exercise in Node-js with Redis key-value store support.
